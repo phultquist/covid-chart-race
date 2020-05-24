@@ -12,5 +12,6 @@ Population data was gathered from [worlddatasoft](https://data.opendatasoft.com/
 Infected data was gathered from Johns Hopkins University
 
 ## Variables
-** Population Minimum: ** the ```population_minimum``` variable is the minimum population for a country to be included.
-** Number of Countries: ** the ```num_countres_in_graph``` variable dictates the number of countries that make the charts, and are included in the graphical interface.
+**Population Minimum:** the ```population_minimum``` variable is the minimum population for a country to be included.
+
+**Number of Countries:** the ```num_countres_in_graph``` variable dictates the number of countries that make the charts, and are included in the graphical interface.
